@@ -61,7 +61,7 @@ na linha def consulta_estoque foi alterado principal por replica
 
 ### Evidência 4 - Tolerância a falhas
 
-![Evidência 4](evidencia4.png-tolerancia-a-falhas)
+![Evidência 4](evidencias/evidencia4.png-tolerancia-a-falhas)
 
 ### 6. Validação do programa
 
@@ -73,7 +73,7 @@ apos as  três correções obtivemos esse resultado
 
 ### Evidencia 5 - Execução completa
 
-![Evidência 5](evidencia5.png-validacao-completa)
+![Evidência 5](evidencias/evidencia5.png-validacao-completa)
 
 
 ### 7. Análise tecnica
