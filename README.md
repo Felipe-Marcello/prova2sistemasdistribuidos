@@ -95,4 +95,9 @@ Depois porque tem que atualizar o valor de estoque, os pedidos são processados 
 
 ### 8. Conclusão
 
+Com essa prática, deu para entender bem como funcionam na real o controle de concorrência, a replicação de dados e a tolerância a falhas em Sistemas Distribuídos. 
+
+Depois de ajustar o limite de pedidos simultâneos, fazer a réplica sincronizar direito com o servidor principal e redirecionar as consultas quando o sistema falha, a Central de Pedidos passou a rodar sem erros. No fim, o estoque ficou consistente e o sistema continuou funcionando mesmo quando o servidor principal caiu.
+Use o código com cuidado.
+
 
