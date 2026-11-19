@@ -33,7 +33,7 @@ na linha MAXIMO_SIMULTANEO foi trocado de 3 para 2
 
 ### Evidência 2 - Concorrência
 
-![Evidência 2](evidencias/evidencia2.png)
+![Evidência 2](evidencias/evidencia2.png-concorrencia)
 
 ### 4. Problema B - Replicação e consistência
 
@@ -47,7 +47,7 @@ apos a linha def sincronizador trocamos principal["estoque"] por replica["estoqu
 
 ### Evidência 3 - Sincronização
 
-![Evidência 3](evidencias/evidencia3.png)
+![Evidência 3](evidencias/evidencia3.png-sincronizacao)
 
 ### 5. Problema C - Tolerância a falhas
 
@@ -61,7 +61,7 @@ na linha def consulta_estoque foi alterado principal por replica
 
 ### Evidência 4 - Tolerância a falhas
 
-![Evidência 4](evidencias/evidencia4.png)
+![Evidência 4](evidencia4.png-tolerancia-a-falhas)
 
 ### 6. Validação do programa
 
@@ -73,7 +73,7 @@ apos as  três correções obtivemos esse resultado
 
 ### Evidencia 5 - Execução completa
 
-![Evidência 5](evidencias/evidencia5.png)
+![Evidência 5](evidencia5.png-validacao-completa)
 
 
 ### 7. Análise tecnica
